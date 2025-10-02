@@ -2,5 +2,5 @@
 
 The script is created to install Node Exporter for Promotheus in CentOS 7 OS
 
-`curl -fsSL https://raw.githubusercontent.com/h15s92/fix_c7repo/main/c7_repofix.sh | sudo bash`
+`curl -fsSL https://raw.githubusercontent.com/h15s92/C7_install_node_exporter/main/install_node_exporter.sh | sudo bash`
 
